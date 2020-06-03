@@ -1,0 +1,75 @@
+/*common css*/
+*{
+	padding: 0;
+	margin: 0;
+	outline: 0;
+}
+
+ol,ul{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+a{
+	text-decoration: none;
+	margin: 0;
+	padding: 0;
+}
+
+h1,h2,h3,h4,h5,h6,a,p,img,.navbar{
+	margin: 0;
+	padding: 0;
+}
+/*main css*/
+.menu_bar nav a img{
+	height: 50px;
+	width:80px;
+	
+} 
+.menu_bar nav a{
+	color:#271F1F;
+}
+
+
+.header_pic{
+	background-image: url(../images/399456_249428728493536_397080147_n.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	color: #F2FFFF;
+	text-align: center;
+	
+}
+
+.header_pic .overlay{
+	background:rgba(0,0,0,.4);
+	padding-bottom: 70px;
+}
+.header_pic .header_text h1{
+	padding-top: 50px;
+	
+
+}
+.header_pic .header_text p{
+	padding-top: 30px;
+	padding-bottom: 50px;
+	font-weight: 3em;
+	
+}
+.header_pic a{
+	color: #F2FFFF;
+	padding:10px 20px;	
+	border:2px solid #F2FFFF;	
+	transition: all linear .3s;
+	text-decoration: none;
+
+}
+.form_head h2{
+	text-align: center;
+	padding-bottom: 20px;
+}
+
+.s_form div button{
+	margin-left: 330px;
+	margin-top: 20px;
+}
