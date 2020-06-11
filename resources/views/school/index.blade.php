@@ -63,7 +63,7 @@
         <div class="row">
         <div class="col-md-5">
           <div class="impt_links">
-            <h3 >Some Important Links</h3>
+            <h3 class="common_header">Some Important Links</h3>
             <ul>
               <li><a href="https://moedu.gov.bd/">Ministry of Education</a></li>
               <li><a href="http://www.dshe.gov.bd/">Directorate of Secondary & Higher Education</a></li>
@@ -81,7 +81,7 @@
         <div class="col-md-2"></div>
         <div class="col-md-5">
          <div class="events">
-           <h3> Some Events</h3>
+           <h3 class="common_header"> Some Events</h3>
             <ul>
               <li>
                 <a href="#">Pahela Baisakh 1422 Udjapan</a>

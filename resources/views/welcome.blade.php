@@ -62,10 +62,10 @@
                 <div class="contact">
                   <h3 class="common_header">Contact</h3>
                   <ul>
-                   <li><a href="https://www.facebook.com/Maskatadighi-HIGH-School-134483456662803/"><i class="fab fa-facebook-f">facebook.com</i></a></li>
-                      <li><a href="#"><i class="fab fa-linkedin-in">linkedin.com</i></a></li>
-                      <li><a href="#"><i class="fab fa-twitter">twitter.com</i></a></li>
-                      <li class="con_no"><a href="#"><i class="fas fa-mobile-alt"> +334 1234 5987</i></a>
+                   <li><a href="https://www.facebook.com/Maskatadighi-HIGH-School-134483456662803/"><i class="fab fa-facebook-f"></i>facebook.com</a></li>
+                      <li><a href="#"><i class="fab fa-linkedin-in"></i> linkedin.com</a></li>
+                      <li><a href="#"><i class="fab fa-twitter"></i>twitter.com</a></li>
+                      <li class="con_no"><a href="#"><i class="fas fa-mobile-alt"> </i>+334 1234 5987</a>
                       </li>
                   </ul>
                 </div>
