@@ -142,6 +142,8 @@ h1,h2,h3,h4,h5,h6,a,p,img,.navbar{
 	width: 100px;
 }
 
+
+
 /*copy*/
 .footer_area  .footer_bottom{
 	background-color: #028737;
@@ -156,6 +158,36 @@ h1,h2,h3,h4,h5,h6,a,p,img,.navbar{
 
 }
 
+
+
+/*about page*/
+.about{
+	background-color: #E9ECEF;
+}
+
+.about .about_img img{
+	height: 250px;
+	width: 350px;
+}
+.about p{
+	line-height: 30px;
+	letter-spacing: 1px;
+	font-size: 18px;
+	padding-top: 20px;
+}
+/*studentlist page*/
+.Jumbotron{
+	background-color: #E9ECEF;
+	padding-top: 50px;
+}
+.Jumbotron .table{
+	background-color: #ffffff;
+}
+
+/*student forum page*/
+.jumbotron{
+	background-color: #E9ECEF;
+}
 .jumbotron .form_head h2{
 	text-align: center;
 	padding-bottom: 10px;

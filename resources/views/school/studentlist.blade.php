@@ -1,6 +1,6 @@
 @extends('welcome')
 @section('content')
-<div class="jumbotron">
+<div class="Jumbotron">
     <div class="container">
         <table class="table">
             <thead class="thead-dark">

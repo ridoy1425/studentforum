@@ -50,6 +50,7 @@
         </nav>
         </div>
       </div>   
+      </div>
       
     
     @yield('content')
@@ -102,7 +103,7 @@
         </div>
         </div> 
       </footer>
-    </div>
+    
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="{{ asset('public/frontend/js/jquery-3.5.0.min.js') }}"></script>
