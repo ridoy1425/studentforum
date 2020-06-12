@@ -112,6 +112,7 @@ h1,h2,h3,h4,h5,h6,a,p,img,.navbar{
 }
 .location{
 	padding-top: 50px;
+	background-color: #E9ECEF;
 }
 .location h3{
 	padding-bottom: 10px;
@@ -185,10 +186,10 @@ h1,h2,h3,h4,h5,h6,a,p,img,.navbar{
 }
 
 /*student forum page*/
-.jumbotron{
+.Jumbotron{
 	background-color: #E9ECEF;
 }
-.jumbotron .form_head h2{
+.Jumbotron .form_head h2{
 	text-align: center;
 	padding-bottom: 10px;
 }

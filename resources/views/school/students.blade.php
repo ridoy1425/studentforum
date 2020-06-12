@@ -1,6 +1,6 @@
 @extends('welcome')
 @section('content')
-<div class="jumbotron">
+<div class="Jumbotron">
 	<div class="container">
 		<div class="form_head">
 			<h2>Student Form</h2>
