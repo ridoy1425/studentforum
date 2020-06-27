@@ -193,6 +193,10 @@ h1,h2,h3,h4,h5,h6,a,p,img,.navbar{
 .Jumbotron .table{
 	background-color: #ffffff;
 }
+/*viewdata page*/
+.Jumbotron img{
+margin: auto, 0;
+}
 
 /*student forum page*/
 .Jumbotron{

@@ -30,6 +30,7 @@ Route::post('/school/store', 'schoolcontroller@store')->name('school.store');
 Route::get('/school/{id}/edit','schoolcontroller@edit')->name('school.edit');
 Route::post('/school/{id}/update','schoolcontroller@update')->name('school.update');
 Route::get('/school/{id}/delete','schoolcontroller@delete')->name('school.delete');
+Route::get('/school/{id}/view','schoolcontroller@view')->name('school.view');
 
 Auth::routes();
 

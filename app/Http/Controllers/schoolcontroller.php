@@ -94,4 +94,9 @@ class schoolcontroller extends Controller
 			$data->delete();
 			return redirect()->to('/school/studentlist');
 	}
+	public function view($id)
+	{
+		$data=sinfo::findorfail($id);
+		return view('school.viewdata',compact('data'));
+	}
 }
