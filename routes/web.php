@@ -19,6 +19,7 @@ Route::get('/', function () {
 
 // menu link
 Route::get('/school/about', 'schoolcontroller@about')->name('school.about');
+Route::get('/school/teacherlist', 'schoolcontroller@teacherlist')->name('school.teacherlist');
 Route::get('/school/students', 'schoolcontroller@students')->name('school.students');
 Route::get('/school/contact', 'schoolcontroller@contact')->name('school.contact');
 Route::get('/school/studentlist', 'schoolcontroller@studentlist')->name('school.studentlist');

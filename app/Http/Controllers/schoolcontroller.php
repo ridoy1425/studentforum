@@ -9,6 +9,10 @@ class schoolcontroller extends Controller
 	{
 		return view('school.about');
 	}
+	public function teacherlist()
+	{
+		return view('school.teacherlist');
+	}
 	public function students()
 	{
 		return view('school.students');

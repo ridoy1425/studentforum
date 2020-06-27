@@ -34,7 +34,7 @@
                 <a class="nav-link" href="{{Route('school.about')}}">About</a>
               </li>
                 <li class="nav-item">
-                <a class="nav-link" href="{{Route('school.students')}}">Teachers List</a>
+                <a class="nav-link" href="{{Route('school.teacherlist')}}">Teachers List</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="{{Route('school.students')}}">Student Form</a>

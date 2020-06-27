@@ -38,9 +38,7 @@ h1,h2,h3,h4,h5,h6,a,p,img,.navbar{
 	color:#048737;
 }
 .logo_bar a h2 span{
-
 	padding-left:430px;
-
 }
 .common_header{
 	padding:5px 0;
@@ -175,6 +173,17 @@ h1,h2,h3,h4,h5,h6,a,p,img,.navbar{
 	letter-spacing: 1px;
 	font-size: 18px;
 	padding-top: 20px;
+}
+/*teacherlist page*/
+.teacherlist	{
+	background-color: #E9ECEF;
+	padding-top: 30px;
+}
+.teacherlist .tecaher_text{
+	padding-bottom: 10px;
+}
+.teacherlist .tecaher_text h2{
+ text-align: center;
 }
 /*studentlist page*/
 .Jumbotron{
